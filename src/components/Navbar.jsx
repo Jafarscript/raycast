@@ -2,7 +2,7 @@ import logo from '../assets/logo.svg'
 
 const Navbar = () => {
   return (
-    <nav className="flex items-center justify-between px-20 p-4">
+    <nav className="flex items-center justify-between px-24 p-4">
         <h1 className='flex items-center justify-center gap-3 text-white text-2xl font-semibold'>
             <img src={logo} alt="logo" className="w-8 h-8" />
             Raycast
